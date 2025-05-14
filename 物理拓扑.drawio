@@ -44,7 +44,7 @@
           <mxGeometry x="584.9967175292969" y="-135.9966412353516" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-26" value="数据上传" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="260" y="174" width="119" height="22" as="geometry" />
+          <mxGeometry x="240.59" y="206" width="119" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-27" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;curved=0;strokeColor=default;targetPerimeterSpacing=0;endSize=12;startSize=12;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-28" value="命令下控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="354" y="280" width="119" height="22" as="geometry" />
+          <mxGeometry x="385" y="254" width="119" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-29" value="华为云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="444" y="188" width="60" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-44" value="数据读取返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-50" width="133" height="22" as="geometry" />
+          <mxGeometry x="-60" y="50" width="133" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HCrk2KYDXEB9rWcXeqYh-44" target="HCrk2KYDXEB9rWcXeqYh-44">
           <mxGeometry relative="1" as="geometry" />
@@ -116,13 +116,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-49" value="数据存储查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry y="210" width="133" height="22" as="geometry" />
+          <mxGeometry x="90" y="120" width="133" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-59" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;curved=0;strokeColor=default;targetPerimeterSpacing=0;endSize=12;startSize=12;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="-60" as="targetPoint" />
             <mxPoint x="480" y="80" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HCrk2KYDXEB9rWcXeqYh-61" value="影子数据传输" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="119" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrk2KYDXEB9rWcXeqYh-62" value="请求发送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="38" width="119" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
