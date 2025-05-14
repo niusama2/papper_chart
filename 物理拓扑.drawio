@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
   <diagram name="第 1 页" id="4pGhInz94iv45K36kQ0L">
-    <mxGraphModel dx="1742" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2124" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="805" y="106" width="72" height="76" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-16" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="53" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-18" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
           <mxGeometry x="-130" y="180" width="100" height="74" as="geometry" />
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-42" value="数据及&lt;div&gt;警告存储&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="398" width="119" height="42" as="geometry" />
+          <mxGeometry x="-90" y="382" width="119" height="42" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-43" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;curved=0;strokeColor=default;targetPerimeterSpacing=0;endSize=12;startSize=12;strokeWidth=3;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrk2KYDXEB9rWcXeqYh-18" target="HCrk2KYDXEB9rWcXeqYh-36">
           <mxGeometry relative="1" as="geometry">
