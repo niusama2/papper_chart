@@ -4,8 +4,80 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-1" target="CKkwD7YMkkwg0U0h0i_L-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CKkwD7YMkkwg0U0h0i_L-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-3" target="CKkwD7YMkkwg0U0h0i_L-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-3" value="前端控制选项展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-5" target="CKkwD7YMkkwg0U0h0i_L-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-5" value="识别对应选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-7" target="CKkwD7YMkkwg0U0h0i_L-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-7" value="执行控制请求方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-9" target="CKkwD7YMkkwg0U0h0i_L-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-9" value="对网页后端发送请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-11" target="CKkwD7YMkkwg0U0h0i_L-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-11" value="后端向云平台转发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-13" target="CKkwD7YMkkwg0U0h0i_L-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-13" value="云平台向树莓派转发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-15" target="CKkwD7YMkkwg0U0h0i_L-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-15" value="树莓派获取命令并解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKkwD7YMkkwg0U0h0i_L-17" target="CKkwD7YMkkwg0U0h0i_L-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-17" value="执行对应控制操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkwD7YMkkwg0U0h0i_L-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
