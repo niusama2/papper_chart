@@ -79,8 +79,8 @@
             <mxPoint x="243" y="353" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCrk2KYDXEB9rWcXeqYh-40" value="数据及警告存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="57" y="398" width="119" height="22" as="geometry" />
+        <mxCell id="HCrk2KYDXEB9rWcXeqYh-40" value="数据交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="66" y="398" width="119" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-41" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;curved=0;strokeColor=default;targetPerimeterSpacing=0;endSize=12;startSize=12;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HCrk2KYDXEB9rWcXeqYh-18">
           <mxGeometry relative="1" as="geometry">
