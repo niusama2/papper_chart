@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-28" value="命令下控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="343.09" y="281.22" width="119" height="22" as="geometry" />
+          <mxGeometry x="354" y="280" width="119" height="22" as="geometry" />
         </mxCell>
         <mxCell id="HCrk2KYDXEB9rWcXeqYh-29" value="华为云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="444" y="188" width="60" height="30" as="geometry" />
