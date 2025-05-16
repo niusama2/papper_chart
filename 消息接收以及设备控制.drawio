@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
   <diagram name="第 1 页" id="cgo1E-duI5aavZvxsblI">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-1" target="F1ddb_itEfJ-Zd3fdmom-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-3" target="F1ddb_itEfJ-Zd3fdmom-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-3" value="解析reques id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-5" target="F1ddb_itEfJ-Zd3fdmom-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-5" value="组合反馈消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-7" target="F1ddb_itEfJ-Zd3fdmom-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-7" value="发布反馈消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-9" target="F1ddb_itEfJ-Zd3fdmom-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-9" value="解析command_name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-11" target="F1ddb_itEfJ-Zd3fdmom-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-11" value="解析paras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-12" target="F1ddb_itEfJ-Zd3fdmom-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-12" value="匹配命令与参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-15" target="F1ddb_itEfJ-Zd3fdmom-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-15" value="控制设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1ddb_itEfJ-Zd3fdmom-17" target="F1ddb_itEfJ-Zd3fdmom-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-17" value="数据插入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1ddb_itEfJ-Zd3fdmom-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
