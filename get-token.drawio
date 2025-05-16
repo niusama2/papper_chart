@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
   <diagram name="第 1 页" id="qFVYCC6S_eI3JJGj_Q3o">
-    <mxGraphModel>
+    <mxGraphModel dx="919" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-1" target="Cu-a8vMr6iAbkA5jiIGH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-3" target="Cu-a8vMr6iAbkA5jiIGH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-3" value="配置目标地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-5" target="Cu-a8vMr6iAbkA5jiIGH-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-5" value="接收请求体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-7" target="Cu-a8vMr6iAbkA5jiIGH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-7" value="转发消息&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-12" target="Cu-a8vMr6iAbkA5jiIGH-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-12" value="返回最终数据至前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-14" target="Cu-a8vMr6iAbkA5jiIGH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-14" value="处理请求体内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cu-a8vMr6iAbkA5jiIGH-17" target="Cu-a8vMr6iAbkA5jiIGH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-17" value="处理返回数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu-a8vMr6iAbkA5jiIGH-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
